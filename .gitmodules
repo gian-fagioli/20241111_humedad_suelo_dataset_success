@@ -1,0 +1,3 @@
+[submodule "packages/kilimo-data-lib"]
+	path = packages/kilimo-data-lib
+	url = git@github.com:KilimoTech/kilimo-data-lib.git
